@@ -86,13 +86,11 @@ In Louisiana, spouses have the option for a no-fault divorce after living separa
 
 3) Did Billy and Alison validly waive their right to interim and/or final spousal support through the agreements? Explain. (5 points)
 
-**Tips & Analysis**
-This question assesses the enforceability of prenuptial agreements concerning spousal support under Louisiana law.
+    **Tips & Analysis**
+    This question assesses the enforceability of prenuptial agreements concerning spousal support under Louisiana law.
 
-**Answer**
-
-
-Yes, if the prenuptial agreements were made in compliance with Louisiana law—signed freely, with full disclosure, and notarized—they can validly waive rights to interim and final spousal support. The court will enforce such waivers unless they result in an unconscionable outcome at the time of divorce.
+    **Answer**
+    Yes, if the prenuptial agreements were made in compliance with Louisiana law—signed freely, with full disclosure, and notarized—they can validly waive rights to interim and final spousal support. The court will enforce such waivers unless they result in an unconscionable outcome at the time of divorce.
 
 
 
