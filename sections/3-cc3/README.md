@@ -36,6 +36,11 @@ Sample cases offer practical applications of these principles, showcasing potent
 ### Case 1: Commercial Property and Mortgage Agreements
 Lou navigates complex legal terrain with Tim, Dan, and the impacts of external judicial actions on his commercial property in Jefferson Parish.
 
+**Relevant Articles:**
+- For mortgage execution and enforceability: CC Art. 3275 (Mortgages must be made by authentic act or act under private signature), CC Art. 3338 (Recordation of mortgages).
+- For prescription of actions on promissory notes: CC Art. 3499 (Ten-year prescription for personal actions).
+
+
 **Background**
 > Lou owns a commercial property in Jefferson Parish. On February 1, 2013, he entered into a fifteen-year written lease with Tim, which included an option for Tim to purchase the property at any point during the lease for $200,000. The lease specified that Tim was not responsible for property maintenance.
 
@@ -103,6 +108,10 @@ Fast Loan, Inc.'s judicial mortgage, recorded post-judgment in 2013, remains enf
 ### Case 2: Land Sales and Legal Disputes
 Steve navigates the complexities of land sales amid fluctuating property values and legal challenges with prospective buyers Tom, Kim, and Eric.
 
+**Relevant Articles:**
+- For rescission of sale due to lesion beyond moiety: CC Art. 2589 (Rescission for lesion), CC Art. 2590 (Lesion beyond moiety).
+- For specific performance and damages in purchase agreements: CC Art. 1986 (Obligations of the seller), CC Art. 2449 (Right of first refusal).
+
 **Background**
 
 > Steve owned three, adjacent one-acre tracts of unimproved land, known as Lot 1, Lot 2 and Lot 3. Steve was approached by Tom to purchase Lot 1. Steve agreed and sold Lot 1 to Tom for a cash price of $5,000 pursuant to a written Act of Sale on March 1, 2022. The day after the Act of Sale was signed by Steve and Tom, it was recorded in the conveyance records. In December 2022, Steve sold Lot 2 to Kim. Steve thought the value of the land had increased since the sale of Lot 1 and demanded that Kim pay $10,000. As Steve thought the property might increase in value in the future, he added a provision to the Act of Sale providing that Kim may not sell Lot 2 without first offering it to Steve for $10,000, or if less, the price that a third person would be willing to pay.
@@ -151,6 +160,10 @@ Under Louisiana law, once a purchase agreement is executed and consideration is 
 
 ### Case 3: Property Leasing and Financial Disputes
 Lisa deals with the repercussions of failed business ventures, legal entanglements with creditors, and disputes over lease agreements.
+
+**Relevant Articles:**
+- For validity of mortgages and obligations: CC Art. 3287 (Requirements for a valid mortgage), CC Art. 3352 (Prescription of mortgages).
+- For lease agreements and modifications: CC Art. 2673 (Lease agreement formation), CC Art. 2713 (Modification of lease terms).
 
 
 **Background**
@@ -232,10 +245,14 @@ Consider the legal status and obligations of a guarantor in lease agreements. Fo
 Dan's recourse against Lisa’s mother would hinge on the existence and enforceability of a guaranty. Given the lack of a written, signed agreement from Lisa's mother and her casual assurance over the phone, enforcing such a claim poses challenges. Verbal guarantees for lease obligations require clear, incontrovertible evidence of intent to be bound, which may not be sufficiently demonstrated in this scenario, potentially limiting Dan’s ability to legally compel payment from Lisa’s mother.
 
 ---
----
+
 
 ### Case 4: Shopping Center Lease and Sale Dispute
 Les Lester and Super Store confront challenges stemming from a property sale, lease agreements, and the right of first refusal disputes.
+
+**Relevant Articles:**
+- For the notice of lease and its sufficiency under the public records doctrine: CC Art. 3338 (Registry of leases), CC Art. 3342 (Effects of recording).
+- For right of first refusal and its enforcement: CC Art. 2625 (Right of first refusal in sale of immovable property).
 
 
 **Background**
@@ -262,7 +279,6 @@ Analyze the legal sufficiency of a recorded lease notice under public records do
 **Answer**
 The recorded notice of lease, listing only the names of the lessor and lessee and the lease's expiration date, while minimal, generally suffices to notify third parties of the lease's existence and its duration under the public records doctrine. The effectiveness against third parties would primarily depend on the notice's ability to alert interested parties to inquire further for full lease terms, thus affecting the lease's enforceability against such third parties in Louisiana.
 
-
 **4.2** Assume solely for this Question 4.2 that the notice of lease between Lester Place and Super Store was NOT sufficient under the public records doctrine to make the lease effective against third persons. In defense of the suit filed by Super Store, Rob claims to be a third-party purchaser entitled to the protection under the public records doctrine. What arguments could be raised against him to defeat his claim of protection from the public records doctrine? Explain. (10 points)
 
 **Tips & Analysis**
@@ -271,6 +287,7 @@ Explore the protections offered by the public records doctrine to third-party pu
 
 **Answer**
 Rob, as a third-party purchaser, could claim protection under the public records doctrine, arguing he relied on recorded documents before the purchase. Against him, it might be argued that his pre-purchase review of all leases, including the actual lease terms with Super Store and his acknowledgment of responsibilities in his communication with Les Lester, indicate implicit acceptance of the lease's terms, overriding his claim of insufficient notice as per public records.
+
 
 **4.3** Assume solely for this Question 2.3 that the notice of lease between Lester Place and Super Store WAS sufficient under the public records doctrine to make the lease effective against third persons, including Rob. What defenses should Super Store assert against Rob in the eviction action? Explain. (10 points)
 
@@ -310,9 +327,13 @@ Assess the legal standing of a lessee vs. lessor conflict arising from lease aba
 **Answer**
 Rob’s lawsuit against Bedazzled should assert abandonment and breach of lease for unpaid rent and vacating the premises without proper termination. Bedazzled might argue constructive eviction or breach of lease terms by Rob necessitating their move. Given Rob's timely action against Bedazzled’s default and absence, coupled with lease terms allowing for acceleration of rent and Bedazzled's clear abandonment, Rob is likely to prevail for past due and future rent under the lease terms.
 
+
 ### Case 5: Guarantees and Mortgages on LLC Business Loans
 Sierra and Howard's Bayou, LLC faces complications with business loans, personal guarantees, and the sale of collateral property.
 
+**Relevant Articles:**
+- For suretyship and guaranty: CC Art. 3035 (Suretyship agreement requirements), CC Art. 3047-3052 (Rights and obligations of sureties).
+- For prescription of notes and mortgages: CC Art. 3434 (Prescription of actions on promissory notes), CC Art. 3458 (Reinscription of mortgages).
 
 **Background**
 > Sierra and Howard, who are not related, are the sole members of Bayou, LLC ("Bayou"). In June of 2014, Bayou borrowed the sum of $50,000 from Leslie. The loan was evidenced by a written promissory note executed by Howard on behalf of Bayou in the amount of $50,000 dated June 5, 2014 ("Note A") payable to the order of Leslie, with interest payable monthly on the first of each month beginning July 1, 2014, and with a final balloon payment of all outstanding principal and unpaid interest due on January 5, 2022.
@@ -342,7 +363,6 @@ and notarization? Explain fully. (5 points)
 **Tips & Analysis**
 Investigate the validity of a mortgage lacking conventional formalities such as witness signatures, notarization, and mortgagor’s endorsement, particularly focusing on Louisiana law's requirements for a mortgage's enforceability against the mortgaged property and third parties.
 
-
 **Answer**
 The 2014 Mortgage, despite lacking Leslie’s signature, witnesses, and notarization, could still be seen as valid due to its recording, signaling the intent to secure Leslie’s loan to Bayou, LLC. However, its enforceability against Howard’s property, particularly in Caddo Parish, might hinge on specific local requirements for mortgage formalities, potentially limiting its effectiveness without conventional validation.
 
@@ -355,6 +375,7 @@ Assess the enforceability of an improperly executed mortgage against subsequent 
 **Answer**
 The enforceability of the 2014 Mortgage against third-party purchasers generally relies on the doctrine of bona fide purchasers and the notice provided by the mortgage's recording. Given the mortgage's recording prior to Howard’s sale of properties, and the deficiencies in its execution, the mortgage's effectiveness against a bona fide purchaser without actual knowledge of the unresolved debt may be compromised, potentially leaving Leslie without recourse against the sold properties.
 
+
 **5.3** Did Sierra’s voice mail message left for Leslie in July of 2014 create an effective
 suretyship of Note A? Explain fully. (5 points)
 
@@ -365,7 +386,6 @@ Review the role of oral or informal communications (e.g., voicemail messages) in
 **Answer**
 Sierra’s voicemail, while indicating an intention to guarantee Bayou, LLC’s indebtedness under Note A, lacks the formal requirements for a binding guarantee, such as a written, signed document. Louisiana law requiring written acknowledgment for a guarantee to be enforceable against the guarantor would likely render Sierra’s informal assurance ineffective as a legal suretyship.
 
-
 **5.4** Has any portion of the principal or interest due under Note A prescribed? Explain
 fully. (10 points)
 
@@ -374,6 +394,8 @@ Explore the statute of limitations for the enforcement of promissory notes and m
 
 **Answer**
 Given that Note A's final balloon payment was due in January 2022 and that Howard made no payments since early on, portions of the note may be at risk of prescription. However, if the note or related obligations were addressed or acknowledged in any form by Bayou, LLC or Howard within the ten-year prescriptive period for promissory notes in Louisiana, the debt would remain actionable. The lack of any payment or action until Leslie's demand in January 2022 could thus leave Leslie within rights to seek full recovery.
+
+
 
 **5.5** List and fully explain the three forms of suretyship. (5 points)
 
@@ -396,3 +418,4 @@ Evaluate the circumstances under which the modification of a business loan or ac
 
 **Answer**
 Leslie’s modification of Note B’s terms without Howard’s knowledge or consent, particularly changing it from a demand note to one with a fixed payment date and adjusting interest rates, could be viewed as materially altering Howard’s obligations as a guarantor, potentially impairing Leslie’s right to recover under Note B. The lack of Howard’s involvement in the modification could render the guarantee for Note B unenforceable if it could be shown that the changes prejudiced Howard’s position or increased his liability without his agreement.
+
