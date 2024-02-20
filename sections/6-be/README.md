@@ -1,19 +1,68 @@
-### Business Ethics
-Provisions of the Louisiana Revised Statutes and the Louisiana Civil Code dealing with corporations, partnerships, partnerships in commendam, limited liability companies, registered limited liability partnerships and mandate instruments, and particularly the provisions of Title 12, Chapter 1 of the Louisiana Revised Statutes (pertaining to business corporations): Book III, Title XI of the Louisiana Civil Code (pertaining to partnerships and partnerships in commendam); Title 12, Chapter 22 of the Louisiana Revised Statutes (pertaining to limited liability companies); Chapters 1, 3, and 4 of Title 9, Code Title XI of the Louisiana Revised Statutes (pertaining to partnerships, partnerships in commendam), and registered limited liability partnerships); and Book III, Title XV of the Louisiana Civil Code and related Ancillaries of Title 9 pertaining to representation and mandate.
-
-^^ Summarize
-
-## Section Title
-Summary of Section
-
+# Business Ethics
+Business Ethics and Corporate Governance fundamentally cover the ethical obligations and governance principles guiding corporate conduct in Louisiana. This section emphasizes the significance of directors' and officers' fiduciary duties, ethical decision-making, and the transparent operation of business entities. Key topics include the prevention of conflicts of interest, ensuring fair treatment of shareholders, compliance with laws governing securities and financial reporting, and the enforcement of ethical standards within corporate cultures. Additionally, it scrutinizes shareholder rights, mechanisms to address director conflicts, and the implications of corporate actions on stakeholders' interests. This section underscores the balance between corporate objectives with ethical considerations and legal compliance, aiming to instill a framework for ethical leadership and sustainable corporate practices.
 
 ## Flash Facts
-[What does the test taker need to know? this is what they read as they walk into the test center]
+What should you know as you walk into the test center:
 
-- **Mortgages and Promissory Notes:** Understanding the formal requirements for the execution, witness, and notarization of mortgages and promissory notes is crucial. Incorrect or incomplete execution can affect enforceability.
+- **Fiduciary Duties:** Directors and officers owe fiduciary duties of care and loyalty to the corporation. This means acting in the best interest of the corporation, avoiding conflicts of interest, and making informed decisions.
+
+- **Preemptive Rights:** These rights allow existing shareholders to maintain their proportional ownership in the corporation by purchasing additional shares before the corporation offers them to the public.
+
+- **Director Conflicts of Interest:** Any direct or indirect personal interest a director has in a transaction involving the corporation must be disclosed to the board. Failure to disclose can lead to transactions being voided or voidable.
+
+- **Shareholder Inspection Rights:** Under certain conditions, shareholders have the right to inspect corporate records. This right is intended to allow shareholders to ensure transparency and accountability in corporate governance.
+
+- **Cumulative Voting:** A method used in elections of directors which allows shareholders to concentrate their votes on fewer candidates than there are positions available, potentially allowing minority shareholders to secure representation on the board.
+
+- **Piercing the Corporate Veil:** Under certain circumstances, courts may hold shareholders personally liable for corporate debts if the corporation is found to be their alter ego, or if corporate formalities are not observed, leading to unfairness or fraud.
+
+- **Derivative Actions:** Shareholders may bring lawsuits on behalf of the corporation to enforce rights when the corporation itself has failed to enforce those rights.
+
+- **Duty to Disclose:** Directors must disclose material information relevant to the corporation’s affairs. An undisclosed conflict of interest may result in transactions being reversed or damages awarded.
+
+- **Unanimous Governance Agreement:** In Louisiana, this agreement among shareholders can modify typical governance structures, offering flexibility in absence of standard norms.
 
 ## Preparation and Application
-[What they need to focus on and do in order to effectively prepare for this section of the Louisiana Bar]
+Understanding the underlying principles of business ethics and their application within the framework of Louisiana law is crucial. This preparation involves a thorough review of case law, statutes, and procedural rules that govern business conduct, conflicts of interest, corporate governance, shareholder rights, and fiduciary duties in Louisiana.
+
+**Focus Areas:**
+
+1. **Review of Louisiana Law:** Begin with a solid understanding of the Louisiana Civil Code and related statutes that impact business operations and ethics, including those specific to corporations, partnerships, and limited liability companies (LLCs).
+
+2. **Case Law Analysis:** Examine landmark and recent cases in Louisiana that highlight ethical dilemmas, conflicts of interest, duties of directors and officers, shareholder rights, and dispute resolution within the context of business operations.
+
+3. **Corporate Governance:** Deeply understand the roles, responsibilities, and duties of corporate directors, officers, and shareholders. Focus on how these roles intersect with ethical considerations and legal obligations.
+
+4. **Ethical Conflict Resolution:** Prepare to analyze scenarios where business law intersects with ethical considerations, understanding both legal requirements and ethical decision-making frameworks.
+
+5. **Application via Hypotheticals:** Practice applying your knowledge to hypothetical scenarios that mirror potential exam questions or real-world dilemmas. This will help in understanding the practical application of business ethics within Louisiana's legal framework.
+
+6. **Preemptive Rights and Shareholder Agreements:** Understand the specifics of shareholder agreements, preemptive rights, and unanimous governance agreements within Louisiana corporations and LLCs, as these areas are ripe for ethical examination.
+
+7. **Statutory Requirements and Procedural Rules:** Ensure familiarity with procedural rules and statutory requirements governing business entities in Louisiana, focusing on areas like formation, operation, dissolution, and especially the reporting and disclosure obligations that could raise ethical issues.
+
+8. **Recent Legislative Changes:** Stay updated on any recent changes in Louisiana statutory law or case law precedents that affect business ethics, corporate governance, or shareholder rights.
+
+**Preparatory Steps:**
+
+- **Compile Key Resources:** Gather relevant statutes, casebooks, ethical guidelines, and commentary specific to Louisiana business law.
+- **Engagement with Hypotheticals:** Regular practice with hypothetical situations can sharpen your ability to quickly identify ethical issues and apply legal principles to resolve them.
+- **Group Study and Discussion:** Engage with peers in discussions and debates over ethical dilemmas in business, focusing on the nuanced application of law.
+- **Seminars and CLE Courses:** Consider attending seminars or Continuing Legal Education (CLE) courses focused on business ethics and Louisiana law.
+
+**Applying Knowledge:**
+
+To effectively apply knowledge in the exam and professional practice:
+- **Analyze Fact Patterns:** Learn to quickly dissect fact patterns to identify legal issues and the ethical dilemmas entangled within them.
+- **Ethical Decision Framework:** Apply a consistent ethical decision-making framework to exam questions and real-world legal problems.
+- **Legal Writing Practice:** Hone your legal writing skills to articulate complex arguments clearly and concisely, ensuring that ethical considerations are clearly outlined and addressed.
+- **Stay Informed:** Regularly read legal journals and news related to business law and ethics to understand emerging trends and ethical discussions in the legal community.
+
+
+
+
+
+
 
 ## Case Questions
 Sample cases offer practical applications of these principles, showcasing potential challenges and resolutions within legal scenarios framed by the Louisiana Civil Code and related statutes.
@@ -428,29 +477,31 @@ weighted equally. Explain each answer; an answer without explanation will receiv
 **5.1** In light of the provision in CLI’s articles of incorporation that no shareholder may inspect the company’s records unless the shareholder is an employee of CLI, does Abigail have any right to review the accounting firm’s report; and, if so, what steps must she take to exercise that right? Explain fully. (5 points)
 
 **Tips & Analysis**
+Look at statutory rights of shareholders to inspect corporate records and how these rights might override or be affected by the company's articles of incorporation. Also, consider the process a shareholder must follow to demand inspection.
 
 
 **Answer**
-
+Despite the provision in CLI’s articles of incorporation, Abigail may still have the right to inspect certain corporate records based on statutory laws which often guarantee shareholders the right to inspect books and records for a proper purpose. Since Abigail’s motive—to investigate a potentially undervalued sale that could harm her investment—could be considered a proper purpose, she might contest the restriction in the articles. To exercise this right, she would typically need to send a written demand to the corporation stating her purpose for inspection clearly and specifying the documents she wishes to inspect, such as the accounting firm’s report.
 
 
 **5.2** What grounds, if any, does Abigail have to challenge the validity of the directors’ vote to accept BHI’s offer, and what steps, if any, can CLI’s directors take to prevent or defeat any challenge to that vote? Explain fully. (15 points)
 
 **Tips & Analysis**
+Identify potential breaches of fiduciary duties and conflicts of interest. Analyze the possible legal actions available to shareholders under state law to challenge board decisions and the defenses directors might have.
 
 
 **Answer**
-
+Abigail can challenge the directors' vote based on Rusty’s significant conflict of interest (owning 40% of BHI), which he failed to disclose, and the resulting breach of fiduciary duties. To prevent or defeat a challenge, CLI’s directors could argue that the decision was made in what they believed to be CLI's best interests, though Rusty’s undisclosed conflict significantly undermines this defense. They could also potentially ratify the transaction through a disinterested director or shareholder vote, though this might not fully negate the challenge given the egregiousness of the conflict.
 
 
 
 **5.3** What fiduciary duties do Rusty, Claire, and Emily owe as directors of CLI, and what, if any, duties did they breach by voting to accept BHI’s offer? Explain fully. (6 points)
 
 **Tips & Analysis**
-
+Discuss the fiduciary duties of care, loyalty, and good faith. Consider Rusty’s undisclosed interest in BHI and the inadequate consideration of the drive-through business's fair value.
 
 **Answer**
-
+Rusty, Claire, and Emily owe fiduciary duties of care, loyalty, and good faith to CLI. Rusty breached the duty of loyalty by failing to disclose his ownership in BHI and by pushing for a transaction that was not in CLI’s best interest, motivated by his personal interest. Claire and Emily breached their duty of care by not adequately informing themselves before making a decision on the sale, essentially failing to act in an informed manner. All directors breached their duty to act in good faith by accepting an offer substantially below market value without proper diligence or consideration of CLI’s and its shareholders' interests.
 
 
 **5.4** Solely for purposes of this question 4.4, assume the following:
@@ -462,18 +513,19 @@ weighted equally. Explain each answer; an answer without explanation will receiv
 **5.4.a** Are the three directors personally liable to pay damages to CLI? Explain fully. (7 points)
 
 **Tips & Analysis**
-
+Assess the impact of the directors' breach of fiduciary duties on the corporation and the principles that guide the imposition of personal liability on directors for corporate loss.
 
 **Answer**
-
+The three directors could be personally liable to CLI for damages stemming from their breach of fiduciary duties. The court’s finding that they breached their duties by accepting an unfair offer and caused damages to CLI establishes a basis for their liability. Their actions individually and collectively led to a financial loss for CLI, making them directly responsible for compensating the corporation for the loss incurred due to their breaches of duty.
 
 
 **5.4.b** Would CLI be permitted, if it chooses, to indemnify the three directors for the legal expenses they incurred in connection with the derivative proceeding? Explain fully. (7 points)
-**Tips & Analysis**
 
+**Tips & Analysis**
+Consider corporate indemnification laws and the exceptions to indemnification, especially in cases of breach of fiduciary duty, and whether indemnification could apply to legal defense costs in derivative actions.
 
 **Answer**
-
+Generally, corporations can indemnify directors for legal expenses incurred in their capacity as directors unless the directors are found to have breached their fiduciary duties or acted in bad faith or with intentional misconduct. Given the court found that the directors breached their fiduciary duties to CLI by voting to accept BHI’s offer, CLI would typically not be permitted to indemnify the directors for their legal expenses related to defending against claims of such breaches, unless specific conditions met under state law allow for it, like if they acted in reliance on legal advice or believed in good faith that their actions were in the corporation's best interest. The specifics would depend on applicable state law and the corporation's bylaws.
 
 
 
@@ -499,18 +551,19 @@ weighted equally. Explain each answer; an answer without explanation will receiv
 **6.1** What, if anything, can Carl and Daryl do to prevent the sale of the LLC’s land; and, if they can, on what grounds? Explain fully. (15 points)
 
 **Tips & Analysis**
-
+Focus on the governance structure and decision-making provisions of the LLC, whether prescribed by the operating agreement or state law. Consider arguing from the perspective of protecting the LLC's best interests and adherence to the correct procedural standards. Examine the fiduciary duties of members in a member-managed LLC to act in good faith and in the best interest of the LLC, and how failing to adequately assess the land's value might breach these duties.
 
 **Answer**
-
+Carl and Daryl can challenge the sale of the LLC's land on the grounds that the decision to sell did not properly consider the best interests of the LLC and potentially failed to follow the proper decision-making process outlined in the LLC's operating agreement or the default state laws governing LLCs. If the operating agreement requires a supermajority or unanimous vote for significant actions such as selling major assets, they can argue that the vote to sell was invalid. Additionally, they could assert that the decision was made without adequate information or assessment of the land's value, which could constitute a breach of the fiduciary duties owed by each member in a member-managed LLC to act in the best interest of the company.
 
 
 **6.2** What right, if any, does Carl have to review the LLC’s financial records? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Understand the importance of transparency within LLCs and review the state-specific statutory rights of LLC members to access company records. Consider the reasonable basis for Carl's request and procedural actions Carl can take to enforce his rights if initially denied access, including legal recourse.
 
 **Answer**
+Carl has a statutory right to review the LLC's financial records as a member of the LLC. Louisiana law, like many jurisdictions, allows LLC members to inspect and copy records for purposes reasonably related to their interest as a member upon reasonable request. Carl needs the financial information to participate fully and make informed decisions regarding the LLC's operations and his investment. Bob's failure to respond to Carl's request is not in compliance with these statutory provisions, and Carl may potentially seek a court order to enforce his right of inspection.
 
 
 
@@ -530,40 +583,41 @@ weighted equally. Explain each answer; an answer without explanation will receiv
 **6.3** Did Eric have authority to purchase the MRI machine without Sara’s consent? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Examine the principles of implied authority in partnerships and the scope of actions considered within the ordinary course of business. Assess the impact of the purchase's magnitude on the partnership's financial well-being and the necessity for joint decision-making on significant expenditures.
 
 **Answer**
-
+Eric may have had the implied authority to purchase the MRI machine without Sara's explicit consent if purchasing equipment falls within the ordinary course of the partnership’s business operations. However, the significant expenditure and the lack of a dire need for a new MRI machine could exceed what is considered actions within the ordinary course of business, requiring mutual decision-making. Thus, Eric's unilateral action without discussing it with Sara could be seen as exceeding his authority within the partnership.
 
 
 **6.4** Did Sara properly withdraw from the partnership? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Consider the formalities involved in withdrawing from a partnership, including notification and potentially required processes for resolving the partnership's dissolution or a partner's departure, according to the partnership agreement or default statutory provisions.
 
 **Answer**
-
+Sara’s immediate declaration of her intent to quit in response to a dispute may not constitute a proper withdrawal from the partnership, depending on the terms outlined in their partnership agreement or default state law provisions regarding partnership dissolution. A proper withdrawal often requires formal notification and may need to follow specified procedures for disengagement and settling accounts between the partners.
 
 
 **6.5** Solely for purposes of this question 2.5, assume that Sara properly withdrew from the partnership. What amount, if any, is Sara entitled to receive for her share in the partnership? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Investigate the process for valuing a withdrawing partner’s interest, including the evaluation of the partnership's assets, liabilities, and any specific terms regarding valuation in the partnership agreement or governed by state law.
 
 **Answer**
-
+Assuming Sara properly withdrew from the partnership, she is entitled to receive the fair value of her share in the partnership at the time of her withdrawal. This amount would likely include her portion of the partnership's profits and may also account for her contributions to the partnership less any liabilities or outstanding debts attributable to her share. The fair value would be determined based on the partnership’s financial situation immediately prior to her withdrawal.
 
 
 **6.6** Solely for purposes of this question 2.6, assume that Sara did not properly withdraw from the partnership. What amount, if any, can Parts Inc. recover from Sara for the $20,000 balance owed for X-ray repair parts? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Understand the concept of joint and several liability in partnerships for obligations incurred during the ordinary business operations. Acknowledge the consequences of a partner’s failure to properly withdraw from the partnership, including continued liability for new debts.
 
 **Answer**
+Assuming Sara did not properly withdraw from the partnership, she remains liable for the partnership’s obligations, including debts incurred in the ordinary course of business. Parts Inc. can therefore recover the $20,000 balance owed for the X-ray repair parts from Sara as she is still considered a partner and responsible for the partnership's debts.
 
 
-
-
+---
+---
 
 
 ### Case 7: Shareholder Rights and Corporate Governance in Family Business
@@ -596,49 +650,52 @@ In a family-operated corporation, disputes over employment promises, shareholder
 **7.1.** What potential grounds, if any, does Elaine have for an action to invalidate the issuance of the 700 new shares to Evan, William, and their children or, alternatively, to require Sugar Farm to issue additional shares to her? What defenses might reasonably be raised, and is Elaine likely to succeed? (10 points)
 
 **Tips & Analysis**
-
+When analyzing this situation, consider the legal principles surrounding preemptive rights, shareholder dilution, and the fiduciary duties of directors. Look for evidence of self-dealing or breach of these duties by the directors. Also, scrutinize the articles of incorporation and any shareholder agreements for provisions regarding share issuance and preemptive rights.
 
 **Answer**
-
+Elaine could potentially challenge the issuance of the 700 new shares on the grounds of (1) dilution of her shareholder interest, (2) breach of fiduciary duty by Evan and William, (3) violation of preemptive rights, and (4) improper use of corporate assets for personal benefit. The main defenses that might be raised by Evan and William could include (1) the issuance of shares was within their authority as directors, (2) the action was in the best interest of the company for retaining and rewarding key employees, and (3) Elaine was not entitled to receive additional shares under the company’s articles of incorporation or bylaws. However, Elaine's challenge could be successful, especially if she can prove that the share issuance was a self-dealing action that unfairly diluted her ownership percentage and that it was done without proper notice or consideration of shareholders' preemptive rights.
 
 
 **7.2.** What rights, if any, does Elaine have to inspect Sugar Farm’s corporate records? What steps, if any, must she take to obtain access to any written offers of employment sent by Sugar Farm to members of the Smith family? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Focus on the statutory basis for shareholder inspection rights, the definition of a "proper purpose", and the procedure for making a demand for inspection. Consider how amendments to corporate governance documents can affect these rights but also how they can conflict with statutory provisions.
 
 **Answer**
-
+Elaine has a statutory right to inspect Sugar Farm’s corporate records as a shareholder. The recent amendment limiting inspection rights to employees potentially violates state law provisions that grant shareholders the general right to inspect records for a proper purpose. Elaine's desire to examine employment offers sent to family members to assess if she was unfairly denied employment constitutes a proper purpose. To obtain access, she would typically need to make a written demand stating this purpose. Given the refusal she already received, her next steps may involve legal action to enforce her right of inspection. The defenses against her inspection rights, like the corporate amendment, are unlikely to hold if they conflict with state law granting such rights.
 
 
 **7.3.** Can Elaine bring an action to compel Evan and William to reimburse Sugar Farm for payments made for improvements to their private residences? Discuss fully what type of action(s); the requirements of any such action(s); and the likelihood of success of such action(s) that Elaine might bring and any defenses that Evan, William, or any other party might assert to any such action(s). (10 points)
 
 **Tips & Analysis**
-
+Understand the criteria and process for bringing a derivative action. Assess both the evidence of misuse of corporate assets and the legal justification (or lack thereof) for such use.
 
 **Answer**
+Elaine can bring a derivative action on behalf of Sugar Farm to compel Evan and William to reimburse the corporation for unauthorized payments used for personal benefits, such as improvements to their private residences. A derivative action requires Elaine to demonstrate she is a shareholder, that she tried to resolve the issue with the board or shareholders (or explain why such an effort would be futile), and that her claim is on behalf of the corporation. Given the apparent misuse of corporate funds, Elaine's likelihood of success seems high, provided she can prove the payments did not serve a legitimate corporate purpose. The main defenses might assert that the expenditures were somehow in the corporation's best interest or compensated for undervalued services. However, given the personal nature of the expenses, these defenses may not hold.
 
 
 
 **7.4.** What action(s), if any, can Elaine bring to compel Sugar Farm to purchase her shares? What must Elaine establish to obtain that relief, and is she likely to succeed? Explain fully. (5 points)
 
 **Tips & Analysis**
-
+Explore the concept of shareholder oppression and the rights of minority shareholders within a corporation. Focus on the expectations set forth by shareholder agreements or the corporation's history and how deviations from these may constitute oppressive actions.
 
 **Answer**
+Elaine may seek to compel Sugar Farm to purchase her shares under an action for oppression, arguing that the actions of Evan and William, as majority shareholders and directors, were oppressive to her as a minority shareholder. She would need to establish that the conduct of the majority shareholders was contrary to the standards of fair dealing and violated her reasonable expectations as a shareholder. Given the dilution of her shares, refusal of employment, decrease in dividend payments, and restrictions on her shareholder rights without proper notice or fairness, Elaine may have a strong case. Success would depend on demonstrating the oppressive nature of the majority's actions and how they negatively impacted her rights and interests.
 
 
 
 **7.5.** On what grounds may Elaine seek to invalidate the amendment approved by the shareholders reducing the number of directors from three to two, and is she likely to succeed? Explain fully. (10 points)
 
 **Tips & Analysis**
-
+Focus on the procedural requirements for amending articles of incorporation and conducting shareholders' meetings, especially regarding notice requirements. Assess the intent and impact of the amendments to determine their fairness and legality within the framework of corporate governance laws.
 
 **Answer**
+Elaine may seek to invalidate the amendment reducing the number of directors from three to two on the grounds that she was not provided written notice of the amendments or the shareholders' meeting as required by law, thereby invalidating the vote on the amendment. Furthermore, she could argue that the amendment is an attempt by Evan and William to further entrench their control over the corporation, potentially to her detriment. Success in this challenge would likely hinge on demonstrating the procedural flaws in how the meeting and vote were conducted, particularly the failure to provide adequate notice to all shareholders. Considering these factors, Elaine's challenge has a strong basis and may well be successful if it can be shown that the procedural and substantive fairness standards were not met.
 
 
-
-
+---
+---
 
 ### Case 8: Formation Failures and Liability in a Brewing Venture
 A brewing venture between friends goes awry due to unfiled business formation documents, leading to disaster and potential personal liability for equipment and property losses.
@@ -661,88 +718,90 @@ A brewing venture between friends goes awry due to unfiled business formation do
 **8.1.** Who is liable to Bad Beer, Inc. for the purchase price of the brewery equipment? Explain fully. (12 points)
 
 **Tips & Analysis**
+Consider the legal implications of conducting business or signing contracts on behalf of an entity that has not been validly formed. Focus on the significance of filing the necessary documents to establish an LLC and understand how acting without proper authority or before an entity’s formation can lead to personal liability.
 
 
 **Answer**
-
+Claire is personally liable to Bad Beer, Inc. for the purchase price of the brewery equipment. Since she signed the purchase agreement in her name without mentioning her intent to act on behalf of Swamp Juice or its Members, and because Swamp Juice had not been properly formed as an LLC due to the failure to file the necessary documents, Claire acted in her personal capacity. The law does not recognize Swamp Juice as a separate legal entity because the articles of organization were never filed. Consequently, the liability falls on Claire personally, rather than on the intended but unformed LLC.
 
 
 **8.2.** Who is liable on the $40,000 promissory note for the purchase of the warehouse? Explain fully. (12 points)
 
 **Tips & Analysis**
-
+Explore the concept of personal accountability when engaging in transactions on behalf of a non-existent or unformed entity. Acknowledge how apparent authority and reliance play a role in determining liability when one acts as a representative of an LLC or corporation that has not been properly established.
 
 **Answer**
+Rusty is personally liable on the $40,000 promissory note for the purchase of the warehouse. Despite signing "Swamp Juice, through Rusty, its representative," the LLC was not officially formed at the time of the transaction because the articles of organization were not filed. As a result, there was no legal entity of Swamp Juice to take on the liability. Additionally, the warehouse owner's decision to move forward based on Rusty's unilateral acceptance can be seen as reliance on Rusty's apparent authority to act. Thus, the liability for the promissory note falls on Rusty for acting on behalf of an unformed LLC.
 
 
 
-*Short Answer*
 **8.3.** What are “emergency powers” for a Louisiana corporation, and how are such powers used? (5 points)
 
 **Tips & Analysis**
-
+Understand the statutory basis for the use of emergency powers by corporate boards or officers in Louisiana, including the types of situations that qualify as emergencies and the scope of actions that can be undertaken under such powers.
 
 **Answer**
-
+“Emergency powers” for a Louisiana corporation refer to special powers granted to the corporation's board of directors or, in some cases, to its officers, to take certain actions that would normally require shareholder approval when it is not practicable to obtain such approval due to an emergency situation. These powers are intended for use during catastrophic events that prevent the corporation from conducting business as usual, such as natural disasters or other situations that disrupt normal operations. The specific actions that can be taken under emergency powers are typically detailed in the corporation’s bylaws or relevant state statutes, allowing the directors/officers to ensure the continuity of the corporation's operations.
 
 
 **8.4.** What is a “unanimous governance agreement” for a Louisiana corporation? (5 points)
 
 **Tips & Analysis**
-
+Delve into the flexibility offered by Louisiana law for corporate governance through unanimous governance agreements, including the requirements for such agreements and the extent to which they can modify the corporation’s governance structure.
 
 **Answer**
+A “unanimous governance agreement” for a Louisiana corporation is a written agreement among all of the shareholders that can alter the traditional corporate governance structure. Through this agreement, shareholders can decide to modify or eliminate the board of directors’ role, transfer board or corporate powers to a shareholder or shareholders, or provide for a different means of making corporate decisions that would typically require board or shareholder meetings and votes. This agreement allows for flexibility in corporate governance, particularly in closely held corporations where the shareholders wish to have direct control over business decisions.
 
 
 
 **8.5.** Can shareholders of a Louisiana corporation unilaterally remove a director, and, if so, under what circumstances? (6 points)
 
 **Tips & Analysis**
-
+Focus on the procedural aspects of director removal as outlined in the corporation's bylaws and articles of incorporation, including any specific requirements or limitations placed on the shareholders' ability to remove directors.
 
 **Answer**
+Yes, shareholders of a Louisiana corporation can unilaterally remove a director, but the circumstances under which this can happen are typically specified in the corporation's articles of incorporation or bylaws. Generally, directors can be removed by a vote of the shareholders, with or without cause, depending on the provisions of the corporation’s governing documents. If the corporation’s bylaws or articles of incorporation stipulate that directors can only be removed with cause, then the shareholders must provide a valid reason for the removal. If the governing documents do not require cause, then directors can be removed by shareholder vote without needing to specify the reason.
 
 
-
-
+---
+---
 
 ### Case 9: Formation and Management of Business Entities in Louisiana
 The creation and operational structure of corporations and LLCs, authority and actions of members or shareholders, and implications of withdrawal from or changes within a business entity are critically examined through hypothetical scenarios in Louisiana.
 
 **Background**
 Part A – 20 POINTS (5 points each subpart)
-Questions 1.1-1.4 are based on the following facts:
+Questions 9.1-9.4 are based on the following facts:
 
 > Allison, Billy and Clayton want to form a Louisiana corporation to sell college football championship apparel. They will name their business “ABC, Inc.” and initially issue 350 shares of stock. Allison will own 150 shares, Billy will own 100 shares, and Clayton will own 100 shares. ABC, Inc. will also be authorized to issue an additional 150 shares. All shares will be without par value.
 >
 > Billy and Clayton will run the day-to-day business, and Allison will be a silent investor with no managerial responsibilities. Allison, Billy and Clayton want the right to maintain their respective ownership percentages in the event ABC, Inc. decides to sell the authorized, but unissued 150 shares. They also want a right of first refusal to purchase each other’s shares in the event a shareholder decides to sell his or her shares. Finally, they want to require that any new prospective shareholder be approved by a majority vote of the current shareholders.
 
 **9.1**
-
 **9.1.a** What organizational papers are necessary to form ABC, Inc. as a Louisiana corporation?
 
 **Tips & Analysis**
-
+Familiarize yourself with the basic requirements and documents for forming a corporation in Louisiana. Understand that the Articles of Incorporation is the primary document that officially establishes a corporation in the state.
 
 **Answer**
-
+To form ABC, Inc. as a Louisiana corporation, the necessary organizational papers are the Articles of Incorporation which need to be prepared and filed with the Louisiana Secretary of State’s office.
 
 
 **9.1.b** What minimum information must be included in these papers to validly form ABC, Inc.?
 
 **Tips & Analysis**
-
+Delve into the specific details that are legally required in the Articles of Incorporation for a corporation in Louisiana. Knowing these details ensures compliance and valid formation of the corporation.
 
 **Answer**
-
+The minimum information that must be included in the Articles of Incorporation to validly form ABC, Inc. includes the corporation's name, the number of shares the corporation is authorized to issue, the address of the corporation's initial registered office, the name of its initial registered agent at that office, and the names and addresses of the initial directors.
 
 
 **9.1.c** What, if any, additional provisions are required to achieve the objectives as stated above?
 **Tips & Analysis**
-
+Consider how additional provisions in the Articles of Incorporation or the corporation’s Bylaws can tailor the governance of the corporation to the specific needs and desires of its founders. Be specific in drafting to ensure objectives are clearly achievable under the corporation’s governing documents.
 
 **Answer**
-
+To achieve the objectives as stated above, the Articles of Incorporation or Bylaws should contain specifics on preemptive rights to maintain ownership percentages, a right of first refusal for purchasing each other’s shares, and the requirement for new shareholders to be approved by a majority vote of the current shareholders.
 
 
 
@@ -751,92 +810,92 @@ Questions 1.1-1.4 are based on the following facts:
 **9.2.a** Is ABC, Inc. required to issue certificates of stock representing the shares to be issued? Explain.
 
 **Tips & Analysis**
-
+Understand the flexibility provided under Louisiana law regarding the issuance of stock certificates. Certificates are traditional, but not mandatory, and companies can opt for electronic or other forms to represent ownership.
 
 **Answer**
-
-
+No, ABC, Inc. is not required to issue certificates of stock representing the shares, although it may choose to do so. Louisiana law allows for both certificated and uncertificated shares.
 
 **9.2.b** If ABC, Inc. issues certificates of stock, what information is to be shown on each share certificate?
 
 **Tips & Analysis**
-
+Focus on the standard requirements for stock certificates. This ensures that all necessary information is presented clearly to reflect ownership accurately.
 
 **Answer**
-
+ If ABC, Inc. issues certificates of stock, each share certificate must show the name of the issuing corporation, the name of the person to whom issued, the number and class of shares, and the designation of the series, if any.
 
 
 **9.2.c** If ABC, Inc. does not issue stock certificates, will this change the rights and obligations Allison, Billy or Clayton owe to ABC, Inc.? Explain.
 
 **Tips & Analysis**
-
+Understand that the issuance of stock certificates is a formal acknowledgment of share ownership but does not in itself define the rights and obligations of the shareholders.
 
 **Answer**
-
+No, not issuing stock certificates will not change the rights and obligations Allison, Billy, or Clayton owe to ABC, Inc. Their rights as shareholders and obligations towards the corporation remain the same, irrespective of the physical issuance of certificates.
 
 
 **9.3**
 **9.3.a** Does the law require that any of Allison, Billy and Clayton be an officer or director of ABC, Inc.? Explain.
 
 **Tips & Analysis**
-
+Recognize the distinction between shareholders and corporate officers or directors in a corporation’s structure. Shareholders may choose to take on these roles but are not legally obliged to.
 
 **Answer**
-
+The law does not specifically require any of Allison, Billy, and Clayton to be an officer or director of ABC, Inc. Officers and directors can be elected or appointed according to the corporation's bylaws.
 
 
 **9.3.b** What officer positions (if any) must they elect?
 
 **Tips & Analysis**
-
+Note the common officer titles and roles within a corporation but also remember that the corporation has flexibility in defining specific roles within its bylaws.
 
 **Answer**
+They must elect positions typically recognized in corporate governance, such as President, Secretary, and Treasurer, although specific positions can vary based on the corporation's bylaws.
 
 
 
 **9.3.c** May Billy hold more than one officer position at one time? Explain.
 
 **Tips & Analysis**
-
+Be aware of the flexibility in roles and responsibilities within a corporation, particularly in smaller entities where officers often wear multiple hats.
 
 **Answer**
-
+Yes, Billy can hold more than one officer position at one time, if allowed by the corporation's bylaws. This is a common practice, especially in smaller corporations.
 
 
 **9.3.d** Does the law require that the officers also be directors? Explain.
 
 **Tips & Analysis**
-
+Understand the separation of roles within a corporation that allows individuals to be either directors, officers, both, or neither, depending on the corporation's governance structure.
 
 **Answer**
-
+No, the law does not require that officers also be directors, though they can be. This allows for flexibility in how the corporation is structured and operated.
 
 
 **9.3.e** What is the difference between straight voting and cumulative voting for director positions?
 
 **Tips & Analysis**
-
+Focus on the differences in voting rights and procedures, particularly how they can affect the power dynamics in electing directors.
 
 **Answer**
-
+Straight voting is where each shareholder votes the number of shares they own for each director position. Cumulative voting allows shareholders to allocate their total votes (shares times director positions) in any combination they choose among the candidates.
 
 
 **9.3.f** When will shareholders have cumulative voting rights?
 
 **Tips & Analysis**
-
+Pay attention to the provisions within the Articles of Incorporation that can grant shareholders cumulative voting rights, understanding its implications for governance and shareholder influence.
 
 **Answer**
-
+Shareholders have cumulative voting rights if the corporation’s Articles of Incorporation specifically allow for it. Cumulative voting is not mandatory and must be expressly adopted.
 
 
 **9.4** Assume that Allison, Billy and Clayton want to form a Louisiana limited liability company (LLC) instead of a corporation for their proposed venture. To achieve the objectives stated above, should the LLC be formed as a member-managed LLC or instead as a manager-managed LLC? Explain the difference between these two forms of LLC.
 
 **Tips & Analysis**
-
+Distinguish between member-managed and manager-managed LLCs in terms of control and operation. Consider the founders' intentions for their roles within the LLC when making this decision.
 
 **Answer**
-
+To achieve the objectives stated, the LLC should be formed as a member-managed LLC since Allison wishes to be a silent investor while Billy and Clayton run the day-to-day business. In a member-managed LLC, all members can participate in management, but the operating agreement can limit their roles, allowing Billy and Clayton to actively manage the business, while Allison remains a passive investor. A manager-managed LLC would centralize management in one or more managers, who may or may not be members, which is not necessary given the desired structure.
 
 
 
@@ -853,37 +912,38 @@ Questions 1.1-1.4 are based on the following facts:
 
 **9.5** What type of business entity is X-Ray Mart? Explain fully. (5 Points)
 **Tips & Analysis**
-
+This question requires recognizing the distinction between the intent to form an LLC and the actual, effective formation of one. An essential step in the LLC formation process is filing the articles of organization with the state. Failing to do so means the business defaults to a general partnership if multiple individuals are involved. In answering, focus on the steps taken (or not taken) and the legal implications of forming a business entity in Louisiana.
 
 **Answer**
-
+X-Ray Mart is a partnership since it was formed by Amanda, Jack, and Matthew with the intention to operate a radiology practice together, sharing profits equally without forming a different business entity. Despite their intention to organize as a limited liability company (LLC) by preparing the appropriate documents, they failed to complete the formation process by not submitting the signed documents. Therefore, by default, under Louisiana law, their business operates as a partnership due to their actions and agreements in conducting business together.
 
 
 
 **9.6** Did Amanda have the authority to purchase the imaging machine; and if so, were there any actions that Jack and Matthew could have taken to revoke or limit her authority?  Explain fully. (5 Points)
 **Tips & Analysis**
-
+When analyzing this scenario, consider the general principles of partnership law, specifically the authority of partners to bind the partnership and the mechanisms for limiting this authority. Highlighting the importance of written agreements among partners to clearly define their rights, responsibilities, and limitations on authority can also provide a road map for how similar situations might be avoided in the future.
 
 **Answer**
-
+ Yes, Amanda likely had the authority to purchase the imaging machine under the partnership arrangement, given that partners in a general partnership typically have the authority to make decisions in the ordinary course of business unless otherwise agreed. There’s an implicit assumption that each partner can bind the partnership to business transactions. However, Jack and Matthew could have taken steps to limit Amanda's authority by formally agreeing (preferably in writing) on a different management structure for the partnership that requires major decisions, like significant equipment purchases, to be approved by all partners or setting a financial limit beyond which partner consent is needed before making purchases.
 
 
 
 **9.7** Did Jack’s statements to Amanda constitute an effective withdrawal from X-Ray Mart? Explain fully.  (5 Points)
 **Tips & Analysis**
-
+To analyze this question, consider the default rules for partnership withdrawal and how a partner’s explicit statements and actions can signal withdrawal intent. Focus on the importance of a partnership agreement in detailing the process and consequences of withdrawal, if different from the state law defaults.
 
 **Answer**
+Jack’s statements could constitute an effective withdrawal from the partnership, depending on the partnership agreement terms, if any, and the default state laws governing partnerships. In Louisiana, unless there's an agreement stating otherwise, a partner can withdraw from the partnership at will. Jack’s explicit statement of intending to leave and "never coming back," coupled with a demand for his share of the practice's value, indicates a clear intent to withdraw from the partnership, likely making his withdrawal effective immediately upon his declaration.
 
 
 
 
 **9.8** Assume for this question 1.8 that Jack’s withdrawal from X-Ray Mart was effective. What, if anything, should he be entitled to from X-Ray Mart, and who would be obligated to pay it? Explain fully.  (5 Points)
 **Tips & Analysis**
-
+ The answer hinges on understanding the rights of a withdrawing partner under general partnership principles, absent a formal agreement that specifies otherwise. Emphasize the calculation of a partner’s share based on the partnership’s current value and the procedures for settling a departing partner's share. Discussing potential agreements between remaining partners to buy out the withdrawing partner's interest showcases an understanding of practical solutions outside of liquidation.
 
 **Answer**
-
+Assuming Jack's withdrawal from X-Ray Mart was effective, he would generally be entitled to the fair value of his share of the partnership at the time of his withdrawal. This includes his portion of the partnership's assets minus liabilities, adjusted for any specific provisions in a partnership agreement, if any. Since they operated without formally filing as an LLC and likely had no written partnership agreement detailing a different withdrawal outcome, the obligation to pay Jack would lie with the partnership itself, which may require liquidation of assets to satisfy his entitlement. Alternatively, Amanda and Matthew could agree to pay Jack his share to keep the practice running, essentially buying out his interest.
 
 
 
@@ -905,79 +965,79 @@ A corporation's controversial investment decision, influenced by a director's un
 **Questions**
 **10.1** At the time of the board meeting, what actions might Donna have taken to prevent Helios from investing in the battery manufacturer; and for each such action is she likely to succeed? Explain fully. (10 Points)
 **Tips & Analysis**
-
+Focus on understanding the practical steps a shareholder, who is not a board member, can take when disagreeing with a board decision. Consider the importance of conflict of interest disclosures and how shareholder activism might influence corporate governance, albeit with limitations on direct interventions in board decisions.
 
 **Answer**
+At the time of the board meeting, Donna had limited options as a shareholder to directly prevent Helios from investing in the battery manufacturer, especially since she was not a director. She could have (1) expressed her concerns to the board, emphasizing the potential conflict of interest and the risk to shareholders' value, which she did; (2) sought an injunction from a court to temporarily halt the investment pending a thorough investigation of the conflict of interest, although this would require immediate legal action and is not guaranteed to succeed; and (3) rallied other shareholders to put collective pressure on the board to reconsider the decision. Success in these actions would depend heavily on the timing, the board's willingness to reconsider their decision, and Donna's ability to effectively mobilize legal or shareholder support quickly. The likelihood of success is low, particularly given her status as a non-director and the limited timeframe.
 
 
 
 
 **10.2** What actions, if any, should Donna take to recover her losses in her Helios stock? Explain fully, including the basis for any action and any procedural requirements. (10 Points)
 **Tips & Analysis**
-
+Analyze the fiduciary duties of directors and the rights of shareholders to challenge breaches of these duties. Emphasize the distinction between derivative and direct actions and the procedural hurdles involved, especially the requirements for standing and pre-suit demand.
 
 **Answer**
-
+To recover her losses, Donna could (1) file a derivative lawsuit on behalf of Helios against the board of directors for breach of fiduciary duty, specifically the duty of loyalty, given the undisclosed personal interest of the chairman in the battery manufacturer. This lawsuit would aim to hold the directors personally liable for the loss in value due to their conflicted decision-making. Procedural requirements include demonstrating standing as a shareholder at the time of the transaction, making a demand on the board to rectify the issue, or showing why such demand would be futile; and (2) potentially pursue a direct suit for securities fraud if there was misleading or inadequate disclosure to shareholders about the investment and the conflict of interest, although this case would be more complex and would require significant evidence of deceit or omission in communications to shareholders.
 
 
 
 **10.3** Assume that Donna sold all of her shares of Helios, Inc. to Carol the day after the board approved Helios’s investment in the battery manufacturer.
 **10.3.a** What action, if any, might Carol have taken to block the battery manufacturer investment? (5 Points)
 **Tips & Analysis**
-
+Understand the constraints on shareholders who inherit issues from decisions made prior to their ownership, and the narrow window for action in situations where board decisions are rapidly executed.
 
 **Answer**
-
+Prior to the completion of the investment transaction but after becoming a shareholder, Carol might have attempted to (1) convince the board to rescind their decision based on the conflict of interest disclosed after their vote, and (2) sought legal remedy to delay or stop the investment pending a review of the conflict of interest and its potential impact on shareholder value. However, given the quick timeline between approval and completion of the investment, and considering she was not a shareholder at the time of the decision, Carol's ability to block the investment would be extremely limited.
 
 
 **10.3.b** What action, if any, might Carol take to recover her losses in her Helios stock? Explain fully. (5 Points)
 **Tips & Analysis**
-
+Focus on legal strategies to address losses due to directors' breaches of duty, considering the timing of share ownership in relation to the corporate actions challenged.
 
 **Answer**
+Carol could take similar actions to Donna to recover her losses: (1) participate in or initiate a derivative action against the board for breach of fiduciary duty due to the conflict of interest, or (2) investigate the possibility of a direct claim for securities fraud based on misrepresentations or omissions regarding the investment. The procedural requirements and likelihood of success mirror those outlined for Donna, with the added challenge that Carol was not a shareholder when the decision was made, which may complicate her standing in these actions.
 
 
 
 **10.4** What is a “qualified director”? (2 Points)
 **Tips & Analysis**
-
+Reflect on the role of corporate governance structures in managing conflicts of interest, emphasizing the criteria that distinguish a qualified director from others in the context of decision-making.
 
 **Answer**
-
+A “qualified director” is a director who does not have a material personal interest in the resolution or transaction in question, ensuring an unbiased decision-making process in matters where a conflict of interest might arise. Qualified directors are crucial for maintaining the integrity of board decisions by ensuring that directors' personal interests do not improperly influence corporate governance.
 
 
 **10.5** What records of a corporation may a shareholder inspect? What are the requirements for a shareholder to inspect the records of a corporation? (2 Points)
 **Tips & Analysis**
-
+Highlight the balance between shareholder rights to transparency and the protection of corporate confidentiality. Understand the importance of procedural requirements for exercising these rights.
 
 **Answer**
-
+Shareholders may inspect a corporation’s bylaws, minutes of shareholder meetings, annual reports, and records of shareholders. To inspect these records, a shareholder typically must make a written demand stating a proper purpose for the inspection. The corporation may require the shareholder to furnish an affidavit confirming that the inspection is not for an improper purpose.
 
 
 **10.6** How are the officers and directors of a corporation elected, and by what vote? (2 Points)
 **Tips & Analysis**
-
+Emphasize understanding the corporate governance mechanisms for appointing leadership within a corporation and the legal bases for these processes, including any specified voting requirements.
 
 **Answer**
-
+Officers are usually elected by the board of directors, and directors are elected by the shareholders. The vote required for election can vary but typically is a majority of the votes cast at a meeting where a quorum is present, pursuant to the corporation’s bylaws or applicable state law.
 
 
 **10.7** What is a unanimous governance agreement? Discuss. (2 Points)
 **Tips & Analysis**
-
+Explore the flexibility provided to shareholders to customize corporate governance according to their preferences, emphasizing the legal recognition and requirements for such agreements.
 
 **Answer**
-
+A unanimous governance agreement is an agreement among all the shareholders of a corporation that alters the traditional governance structure, allowing shareholders to directly manage corporate affairs or restrict the powers of the directors and officers. This agreement permits flexibility in tailoring the governance of the corporation to the specific needs of its owners.
 
 
 **10.8** What is the difference between express and implied authority by an agent? (2 Points)
 **Tips & Analysis**
-
+Distinguish between the formal delegation of powers and the practical necessities of fulfilling a role or task, emphasizing how understanding these concepts informs legal analysis in matters of agency and corporate governance.
 
 **Answer**
-
-
-
+Express authority is granted by explicit instruction or agreement, detailing the agent's powers and tasks. Implied authority arises from the role or position held by the agent, encompassing actions reasonably necessary to carry out express authority or perform duties explicitly assigned.
 
 
 
