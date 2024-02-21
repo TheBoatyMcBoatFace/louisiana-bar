@@ -1017,6 +1017,7 @@ Shareholders may inspect a corporation’s bylaws, minutes of shareholder meetin
 
 
 **10.6** How are the officers and directors of a corporation elected, and by what vote? (2 Points)
+
 **Tips & Analysis**
 Emphasize understanding the corporate governance mechanisms for appointing leadership within a corporation and the legal bases for these processes, including any specified voting requirements.
 
@@ -1033,6 +1034,7 @@ A unanimous governance agreement is an agreement among all the shareholders of a
 
 
 **10.8** What is the difference between express and implied authority by an agent? (2 Points)
+
 **Tips & Analysis**
 Distinguish between the formal delegation of powers and the practical necessities of fulfilling a role or task, emphasizing how understanding these concepts informs legal analysis in matters of agency and corporate governance.
 
